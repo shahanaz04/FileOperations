@@ -18,6 +18,11 @@ public static void main(String[] args) throws IOException {
 		//count
 		int count=rd.size();
 		System.out.println("No of lines..."+count);
-		System.out.println("successfull");
+
+		System.out.println("Successfull");
+		System.out.println("1234");
+
+		
+
 }
 }
